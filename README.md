@@ -20,5 +20,5 @@
 
 ```bash
 ~$ pip install --upgrade pip
-~$ pip install -f requirements.txt
+~$ pip install -r requirements.txt
 ```
