@@ -1,6 +1,0 @@
-
-on: push
-jobs:
-  build-pkg:
-    name: Build package
-    runs-on: ubuntu-18.04
