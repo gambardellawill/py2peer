@@ -1,5 +1,7 @@
 # py2peer
 
+![example workflow](https://github.com/gambardellawill/py2peer/actions/workflows/build-test.yml/badge.svg)
+
 `py2peer` is a collection of Python libraries that enables applications to interact with a wide assortment of different file-sharing networks and protocols.
 
 ## Installation and use
